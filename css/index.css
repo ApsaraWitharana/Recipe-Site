@@ -35,6 +35,11 @@ li a {
     margin-inline: 1.5rem;
 }
 
+li a:hover{
+    color: white;
+    background-color: black;
+}
+
 .logo {
     font-size: 1.5rem;
 }
