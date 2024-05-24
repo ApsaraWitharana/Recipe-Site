@@ -119,6 +119,16 @@ background-color: rgb(17, 181, 110);
 color: #fff;
 }
 
+.mainbtn{
+background-color: rgb(17, 181, 110);
+color: #fff;
+}
+
+.mainbtn:hover {
+    background-color:green;
+    color: black;
+}
+
  button:hover {
     color: black;
     background-color: green;
@@ -213,6 +223,11 @@ color: #fff;
     position: relative;
     top: 12px;
     padding: 5px 14px;
+}
+
+.blogCard a:hover{
+    color: black;
+    background-color: rgb(226, 109, 67);
 }
 
 .footer {
