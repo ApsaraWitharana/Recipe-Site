@@ -108,10 +108,24 @@ li a:hover{
     width: 100px;
     height: 30px;
     font-size: 16px;
-    background-color: rgb(244, 126, 84);
+    background-color: rgb(17, 181, 110);
     color: #fff;
     border: none;
     cursor: pointer;
+}
+
+button{
+background-color: rgb(17, 181, 110);
+color: #fff;
+}
+
+ button:hover {
+    color: black;
+    background-color: green;
+}
+.card button:hover{
+    color: black;
+    background-color: green;
 }
 
 .head {
