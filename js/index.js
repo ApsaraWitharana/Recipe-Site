@@ -43,9 +43,45 @@ cards.forEach((curCard)=>{
         <i id="icon" class="fa-solid fa-xmark"></i>
         <img src=${curCard.firstElementChild.src} alt="">
         <h1>Fresh Foods</h1>
-        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
-        Recusandae odio velit mollitia nulla inventore asperiores fuga. Quasi, eius
-         nemo. Blanditiis, consequatur sunt.</p>
+        <h3>Ingredients</h3>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Ingredient</th>
+                            <th>Quantity</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>Pizza dough</td>
+                            <td>1 ball</td>
+                        </tr>
+                        <tr>
+                            <td>Tomato sauce</td>
+                            <td>1 cup</td>
+                        </tr>
+                        <tr>
+                            <td>Mozzarella cheese</td>
+                            <td>2 cups, shredded</td>
+                        </tr>
+                        <tr>
+                            <td>Pepperoni</td>
+                            <td>1 cup, sliced</td>
+                        </tr>
+                        <tr>
+                            <td>Olive oil</td>
+                            <td>2 tablespoons</td>
+                        </tr>
+                        <tr>
+                            <td>Fresh basil</td>
+                            <td>1/4 cup, chopped</td>
+                        </tr>
+                        <tr>
+                            <td>Salt</td>
+                            <td>to taste</td>
+                        </tr>
+                    </tbody>
+                </table>
 
         `
         document.querySelector("body").appendChild(div)
