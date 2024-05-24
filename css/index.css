@@ -36,8 +36,8 @@ li a {
 }
 
 li a:hover{
-    color: white;
-    background-color: black;
+    color:orange;
+    /* background-color:gray; */
 }
 
 .logo {
