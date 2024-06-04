@@ -6,7 +6,8 @@ Simply Recipes is here to help you cook delicious meals with less stress and mor
 
 Home
 
-![Screenshot 2024-05-24 182429](https://github.com/ApsaraWitharana/Recipe-Site/assets/139870615/9a988717-0277-4041-aa43-527c3e020f22)
+![Screenshot 2024-05-24 185636](https://github.com/ApsaraWitharana/Recipe-Site/assets/139870615/34cf0076-6d60-4f74-9ce7-f616abdfb8fd)
+
 
 Foods
 
